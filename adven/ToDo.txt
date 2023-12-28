@@ -1,5 +1,3 @@
-github
-Documentation
-save?
-menu?
-single Jump
+menu
+Change Jump action
+Add new Maps
